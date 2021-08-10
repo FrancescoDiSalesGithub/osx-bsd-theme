@@ -1,9 +1,7 @@
 pkg install xorg
+
 pkg install openbox
+pkg install obconf
 
-user=whoami
+pkg install xfce4-desktop-4.16.0 
 
-cd /home/$user
-echo "exec openbox" > .xinitrc
-
-echo "first graphical setup completed"
