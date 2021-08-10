@@ -1,1 +1,1 @@
-pkg install cairo-dock
+pkg install plank
