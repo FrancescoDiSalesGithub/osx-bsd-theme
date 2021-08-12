@@ -1,2 +1,6 @@
 # osx-bsd-theme
-Install osx theme on bsd
+Installs a osx like theme on bsd
+
+run install.sh
+
+
